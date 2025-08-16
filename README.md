@@ -4,6 +4,8 @@ Two Good Co is a modern, interactive website showcasing cutting-edge web design 
 
 💡 Featured on Awwwards – recognized for its creativity, design, and user experience.
 
+![Demo](demo.gif)
+
 Features
 
 🎥 Full-screen background video
