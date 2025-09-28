@@ -30,17 +30,6 @@ Locomotive Scroll – Smooth scrolling
 
 GSAP + ScrollTrigger – Animations & scroll effects
 
-📂 Project Structure
-two-good-co/
-│── index.html       # Main entrypoint
-│── style.css        # Styles and layout
-│── script.js        # Animations & scroll logic
-│── video.mp4        # Background video
-│── demo.gif         # Demo animation
-└── fonts/           # Custom font files
-
-
-
 🚀 How It Works
 
 Locomotive Scroll handles smooth scrolling + inertia.
